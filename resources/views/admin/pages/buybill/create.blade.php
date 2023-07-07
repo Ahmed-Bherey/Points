@@ -584,7 +584,7 @@ function restFun(){
 }
 </script>
 <script>
-    //  vreat new row
+//      vreat new row
 // let add = document.getElementById('add'),
 //     tbody = document.getElementById('tbody');
 
